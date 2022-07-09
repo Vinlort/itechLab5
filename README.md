@@ -53,4 +53,11 @@
 
 ![image](https://user-images.githubusercontent.com/79364960/178113295-0f8b25a1-1600-43ca-8275-e0594c378699.png)
 
+Так же скриншоты самой базы данных:
+
+![image](https://user-images.githubusercontent.com/79364960/178114106-349280f5-dafd-49b3-ac96-3999c1d7251a.png)
+
+![image](https://user-images.githubusercontent.com/79364960/178114123-4a3fc02c-d293-4729-89b3-b945b5e7220e.png)
+
+
 Работа выполнена успешно.
